@@ -1,0 +1,4 @@
+tools/models/
+tools/.tmp.wav
+node_modules/
+__pycache__/
