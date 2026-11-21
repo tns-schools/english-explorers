@@ -11,6 +11,6 @@
    The website works normally whether analytics are on, off, or unavailable.
    ===================================================================== */
 window.TNS_ANALYTICS_CONFIG = {
-  enabled: false,
-  ingestUrl: ""
+  enabled: true,
+  ingestUrl: "https://jzibbzynyksbrrlqdvyk.supabase.co/functions/v1/ingest"
 };
