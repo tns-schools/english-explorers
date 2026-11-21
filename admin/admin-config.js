@@ -9,7 +9,7 @@
    ===================================================================== */
 window.TNS_ADMIN_CONFIG = {
   /* Supabase → Project Settings → API → Project URL, e.g. "https://abcdefghijkl.supabase.co" */
-  supabaseUrl: "",
+  supabaseUrl: "https://jzibbzynyksbrrlqdvyk.supabase.co",
   /* Supabase → Project Settings → API Keys → Publishable key ("sb_publishable_...") */
-  supabasePublishableKey: ""
+  supabasePublishableKey: "sb_publishable_kGmfv2R1_aEQr3CNazDtZg_ialTRlCF"
 };
